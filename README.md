@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://kurbis.host" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/kurbis-host/.github/main/assets/kurbis.svg" alt="kurbis.host logo" width="96" height="96" />
+  </a>
+</p>
+
 <h1 align="center">kurbis.host</h1>
 
 <p align="center">
